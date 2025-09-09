@@ -13,7 +13,7 @@ Make sure you have PHP and Composer installed globally on your computer.
 Clone the repo and enter the project folder
 
 ```
-git clone https://github.com/alexeymezenin/laravel-realworld-example-app.git
+git clone https://github.com/Peter-Haro/laravel-real-example.git
 cd laravel-realworld-example-app
 ```
 
